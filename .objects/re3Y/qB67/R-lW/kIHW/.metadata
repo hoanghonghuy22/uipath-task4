@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Submit",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kIHWghnUPkebJEPpQ3QB4w",
+  "Reference": "MIJsutTN60iVUnRpD91kOg/kIHWghnUPkebJEPpQ3QB4w",
+  "ParentRef": "MIJsutTN60iVUnRpD91kOg/R-lWQyQZr0eunDRCcit7ww",
+  "Created": "2026-03-03T04:39:25.4411704Z",
+  "Updated": "2026-03-03T04:39:25.4411704Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

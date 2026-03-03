@@ -1,0 +1,15 @@
+# UiPath
+
+# Folders
+.local/
+.localps/
+.settings/
+.tmh/
+.versions/
+
+# Files
+project.lock.json
+
+# Other
+*.screenshot
+*.xaml.bk
