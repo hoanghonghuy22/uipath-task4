@@ -6,6 +6,9 @@
 .settings/
 .tmh/
 .versions/
+.objects/
+.screenshots/
+.storage/
 
 # Files
 project.lock.json
